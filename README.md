@@ -8,6 +8,25 @@ I am proposing a bit-serial CPU kit, and a general presentation of bit serial co
 
 MITE is a complete 8-bit computer implemented in fewer than 30 ICs.
 
+MITE can be broken down into several sub-systems for clarification of its operation.
+
+1. A clock generator and timing sequencer  - 3 ICs.
+ 
+2. A Program Counter and SRAM memory Interface - 10 ICs
+
+3. Instruction decoding logic - 2 ICs
+
+4. An Accumulator shift register AC - 1 IC
+
+5. A memory Bus shift register B - 1 IC
+ 
+6. The bit serial ALU - 5 ICs.
+ 
+7. Input and Output registers - 2 ICs.
+ 
+In all, it is around 25 ICs.
+
+
 The ALU uses bit serial arithmetic and is just 5 ICs. Compared to Marcel van Kervincks Gigatron 8-bit ALU which was 10 ICs. Extending to 16-bits does not add anymore ICs to the ALU.
 
 MITE can easily be extended to 16-bits, with very few archtectural additions.
