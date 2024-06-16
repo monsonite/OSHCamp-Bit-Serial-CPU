@@ -1,5 +1,8 @@
 # OSHCamp-Bit-Serial-CPU
 
+![image](https://github.com/monsonite/OSHCamp-Bit-Serial-CPU/assets/758847/e3bee932-bd6e-4558-b837-efdc5aa252cb)
+
+
 Here I describe a bit serial CPU intended for a presentation and workshop session at OSHCamp 2024 on 24th and 25th August.
 
 Each year, open source hardware enthusiasts gather in the picturesque town of Hebden Bridge, West Yorkshire for a long weekend of talks, discussions and practical hardware workshops.
