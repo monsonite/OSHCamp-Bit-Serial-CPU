@@ -9,7 +9,9 @@ Each year, open source hardware enthusiasts gather in the picturesque town of He
 
 I am proposing a bit-serial CPU kit, and a general presentation of bit serial computing.
 
-MITE is a complete 8-bit computer implemented in fewer than 30 ICs.
+MITE is a complete 8-bit computer implemented in fewer than 30 ICs. 
+
+The aim is to create a small CPU that can interface to memory, GPIO, peripherals and sensors using the SPI interface.
 
 MITE can be broken down into several sub-systems for clarification of its operation.
 
